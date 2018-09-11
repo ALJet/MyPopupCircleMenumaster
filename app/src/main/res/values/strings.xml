@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My-PopupCircleMenu-master</string>
+    <item type="id" name="view_view"/>
+</resources>
